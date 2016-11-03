@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Share-Price-Finder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Share_Price_Finder_jar</output-path>
+    <root id="archive" name="Share-Price-Finder.jar">
+      <element id="module-output" name="Share-Price-Finder" />
+    </root>
+  </artifact>
+</component>
